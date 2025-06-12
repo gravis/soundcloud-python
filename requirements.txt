@@ -1,4 +1,4 @@
 nose>=1.1.2
 fudge==1.0.3
-requests>=1.0.0
+requests>=2.32.4
 simplejson>=2.0
